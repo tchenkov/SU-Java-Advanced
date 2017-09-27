@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/01. Intro to Java - Lab" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02. Intro To Java - Exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03. Abstraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04. Abstraction - Exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00. Test" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
