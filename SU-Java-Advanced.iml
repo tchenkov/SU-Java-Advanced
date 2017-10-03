@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/00. Test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05. String Processing - Lab" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06. String Processing - Exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07. Data Representation and Manipulation - Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Data Representation and Manipulation - Exercises" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
