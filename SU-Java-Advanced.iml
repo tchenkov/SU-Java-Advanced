@@ -13,6 +13,8 @@
       <sourceFolder url="file://$MODULE_DIR$/07. Data Representation and Manipulation - Lab" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08. Data Representation and Manipulation - Exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09. Objects, Classes and Collections - Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10. Objects, Classes and Collections - Exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11. Functional Programing - Lab" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
