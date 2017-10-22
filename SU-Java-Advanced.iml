@@ -18,6 +18,8 @@
       <sourceFolder url="file://$MODULE_DIR$/12. Functional Programming - Exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13. PStream API - Lab" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/14. Stream API - Exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16. Exam Preparation I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exam" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
